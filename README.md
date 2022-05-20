@@ -48,17 +48,17 @@ accuracy=metrics.accuracy_score(y_test,y_pred)
 accuracy
 dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 ~~~
-## Output:
+# Output:
 
-### Head:
+## Head:
 
 ![output](./img/1.png)
 
-### Accuracy:
+## Accuracy:
 
 ![output](./img/2.png)
 
-### Predicted Values:
+## Predicted Values:
 
 ![output](./img/3.png)
 
